@@ -1,4 +1,4 @@
 
 #!/bin/sh
 
-python test.py ${1} ${2}
+python3 test.py ${1} ${2}
