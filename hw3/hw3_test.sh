@@ -1,4 +1,4 @@
 
 #!/bin/sh
-wget 'https://www.dropbox.com/s/4jnb1mbzut2c3p3/1542617837.h5?dl=1'
-python3 test.py ${1} ${2} ${3} ${4}
+wget -O 1543385951.h5 'https://www.dropbox.com/s/4k5f1ava028f8rm/1543385951.h5?dl=1'
+python3 test.py ${1} ${2} 
